@@ -6,4 +6,4 @@ We start with the absolute basics here and cover the following:
 - Writing your first pattern
 ## YouTube video
 
-[![Episode 1 - Getting started](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![Episode 1 - Getting started](http://img.youtube.com/vi/4Ut4UK7612M/0.jpg)](https://www.youtube.com/watch?v=4Ut4UK7612M)
