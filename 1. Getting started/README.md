@@ -1,5 +1,5 @@
 # Episode 1 - Getting started
-We start with the abssolute basics here and cover the following:
+We start with the absolute basics here and cover the following:
 - What is FastLED?
 - Hardware and power delivery
 - Setting up to code
