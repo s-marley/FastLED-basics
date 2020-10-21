@@ -10,5 +10,5 @@ FastLED has a very powerful HSV system for dealing with colors, but new users of
 [![Episode 2 - Color](http://img.youtube.com/vi/FQpXStjJ4Vc/0.jpg)](https://www.youtube.com/watch?v=FQpXStjJ4Vc)
 
 ## Useful links
-- [CRGB / CHSV reference](https://github.com/FastLED/FastLED/wiki/Pixel-reference)
-- [Color and temperature correction](https://github.com/FastLED/FastLED/wiki/FastLED-Color-Correction)
+- [CRGB / CHSV reference](https://github.com/FastLED/FastLED/wiki/Pixel-reference) FastLED wiki
+- [Color and temperature correction](https://github.com/FastLED/FastLED/wiki/FastLED-Color-Correction) FastLED wiki
