@@ -7,7 +7,7 @@ Using the wave functions can result in dynamic patterns and are extremely helpfu
 - 1D blurring
 ## YouTube video
 
-[![Episode 4 - Waves and blur](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![Episode 4 - Waves and blur](http://img.youtube.com/vi/2owTxbrmY-s/0.jpg)](https://www.youtube.com/watch?v=2owTxbrmY-s)
 
 ## Useful links
 - [Some info on waves](https://github.com/FastLED/FastLED/wiki/FastLED-Wave-Functions) FastLED wiki
