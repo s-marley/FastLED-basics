@@ -17,8 +17,8 @@ void setup() {
 
 void loop () {
   
-    uint8_t beatA = beatsin8(30, 0, 255);
-    uint8_t beatB = beatsin8(20, 0, 255);
+    uint16_t beatA = beatsin16(30, 0, 255);
+    uint16_t beatB = beatsin16(20, 0, 255);
     fill_rainbow(leds, NUM_LEDS, (beatA+beatB)/2, 8);
     
     FastLED.show();

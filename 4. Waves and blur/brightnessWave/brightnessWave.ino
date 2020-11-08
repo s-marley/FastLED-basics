@@ -27,7 +27,7 @@ void setup() {
 
 void loop() {
 
-  //Creat a sin wave with period of 2 seconds (30bpm) to change the brightnes of the strip
+  //Creat a sin wave with period of 2 seconds (30bpm) to change the brightness of the strip
   uint8_t sinBeat = beatsin8(30, 50, 255, 0, 0);
   
   // Color each pixel from the palette using the index from colorIndex[]

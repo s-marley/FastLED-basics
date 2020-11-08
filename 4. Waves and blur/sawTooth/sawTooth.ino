@@ -16,7 +16,7 @@ void setup() {
 
 void loop() {
 
-  uint8_t pos = map(beat8(40, 0), 0, 255, 0, NUM_LEDS -1);
+  uint8_t pos = map(beat16(40, 0), 0, 65535, 0, NUM_LEDS -1);
   leds[pos] = CHSV( hue, 200, 255);
 
   fadeToBlackBy(leds, NUM_LEDS, 3);

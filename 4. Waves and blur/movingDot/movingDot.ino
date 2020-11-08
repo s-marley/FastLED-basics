@@ -14,7 +14,7 @@ void setup() {
 
 void loop() {
 
-  uint8_t sinBeat = beatsin8(30, 0, NUM_LEDS - 1, 0, 0);
+  uint16_t sinBeat = beatsin16(30, 0, NUM_LEDS - 1, 0, 0);
 
   leds[sinBeat] = CRGB::Blue;
   
