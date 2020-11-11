@@ -6,7 +6,10 @@ It is often useful to have multiple patterns, and to be able to switch between t
 - Specifying patterns as a class to save on RAM usage when they are not active
 ## YouTube video
 
-[![Episode 5 - Multiple patterns](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=) Coming soon
+[![Episode 5 - Multiple patterns](http://img.youtube.com/vi/fRXJQVdwrog/0.jpg)](https://www.youtube.com/watch?v=fRXJQVdwrog)
 
 ## Useful links
 - [blend and nblend functions](http://fastled.io/docs/3.1/group___colorutils.html) FastLED API docs
+- [OneButton library](https://github.com/mathertel/OneButton)
+- [EasyButton library](https://github.com/evert-arias/EasyButton)
+- [JC_Button library](https://github.com/JChristensen/JC_Button)
