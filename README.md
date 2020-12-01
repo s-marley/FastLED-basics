@@ -6,6 +6,7 @@ This is the home of a collection of videos about the FastLED library. Each video
 3. [Palettes](3.%20Palettes)
 4. [Waves and blur](4.%20Waves%20and%20blur)
 5. [Multiple patterns](5.%20Multiple%20patterns)
+6. [Noise](6.%20Noise)
 ## Useful links
 - [FastLED main site](http://fastled.io/)
 - [FastLED GitHub repository](https://github.com/FastLED/FastLED)
