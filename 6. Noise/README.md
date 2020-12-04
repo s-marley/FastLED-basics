@@ -8,7 +8,7 @@ The FastLED noise functions can seem a little hard to understand if you don't kn
 We have barely scratched the surface of what's possible in this video, but it was long enough already. Using scale and x as the `inoise8(x)` parameters is completely optional, you can put whatever numbers or values you like in there. Have a play and see what's possible!
 ## YouTube video
 
-[![Episode 6 - Noise](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![Episode 6 - Noise](http://img.youtube.com/vi/7Dhh0IMSI4Q/0.jpg)](https://www.youtube.com/watch?v=7Dhh0IMSI4Q)
 
 ## Notes on the processing demo
 I have included the processing code here in case anyone wants to play with it. Just a couple of things to note:
